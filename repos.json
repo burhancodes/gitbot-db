@@ -1,18 +1,31 @@
-[
-  "vinceliuice/Colloid-icon-theme",
-  "Burhanverse/Noti",
-  "rebelonion/Dantotsu",
-  "KotatsuApp/Kotatsu",
-  "AbdurazaaqMohammed/AntiSplit-M",
-  "MuntashirAkon/AppManager",
-  "crimera/twitter-apk",
-  "ReVanced/GmsCore",
-  "Unofficial-Life/revanced-gphotos-build",
-  "ProtonVPN/android-app",
-  "protonpass/android-pass",
-  "ProtonMail/android-mail",
-  "beemdevelopment/Aegis",
-  "Goooler/LawnchairRelease",
-  "mihonapp/mihon",
-  "M66B/NetGuard"
-]
+{
+  "android": [
+    "Burhanverse/Noti",
+    "rebelonion/Dantotsu",
+    "KotatsuApp/Kotatsu",
+    "AbdurazaaqMohammed/AntiSplit-M",
+    "MuntashirAkon/AppManager",
+    "crimera/twitter-apk",
+    "ReVanced/GmsCore",
+    "Unofficial-Life/revanced-gphotos-build",
+    "ProtonVPN/android-app",
+    "protonpass/android-pass",
+    "ProtonMail/android-mail",
+    "beemdevelopment/Aegis",
+    "Goooler/LawnchairRelease",
+    "mihonapp/mihon",
+    "M66B/NetGuard"
+  ],
+  "linux": [
+    "vinceliuice/Colloid-icon-theme",
+    "talwat/lowfi"
+  ],
+  "windows": [
+    "Runixe786/MD3-Windows",
+    "Axorax/winpower"
+  ],
+  "misc": [
+    "leminlimez/Nugget",
+    "straight-tamago/misakaX"
+  ]
+}
