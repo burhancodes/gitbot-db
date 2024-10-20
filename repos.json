@@ -34,6 +34,13 @@
     "CarrotRub/Fit-Launcher",
     "eythaann/Seelen-UI"
   ],
+  "cross-platform": [
+    "zen-browser/desktop",
+    "Steve-xmh/applemusic-like-lyrics",
+    "kra-mo/sly",
+    "HemantKArya/BloomeeTunes"
+    
+  ],
   "misc": [
     "leminlimez/Nugget",
     "straight-tamago/misakaX",
