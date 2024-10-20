@@ -23,7 +23,6 @@
     "LSPosed/LSPosed.github.io",
     "Magisk-Modules-Alt-Repo/StevenBlock",
     "Magisk-Modules-Alt-Repo/enable-blurs"
-    
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
@@ -31,10 +30,13 @@
   ],
   "windows": [
     "Runixe786/MD3-Windows",
-    "Axorax/winpower"
+    "Axorax/winpower",
+    "CarrotRub/Fit-Launcher",
+    "eythaann/Seelen-UI"
   ],
   "misc": [
     "leminlimez/Nugget",
-    "straight-tamago/misakaX"
+    "straight-tamago/misakaX",
+    "mikf/gallery-dl"
   ]
 }
