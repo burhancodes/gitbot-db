@@ -19,7 +19,11 @@
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
-    "chiteroman/PlayIntegrityFix"
+    "chiteroman/PlayIntegrityFix",
+    "LSPosed/LSPosed.github.io",
+    "Magisk-Modules-Alt-Repo/StevenBlock",
+    "Magisk-Modules-Alt-Repo/enable-blurs"
+    
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
