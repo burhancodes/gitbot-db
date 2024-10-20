@@ -17,6 +17,10 @@
     "mihonapp/mihon",
     "M66B/NetGuard"
   ],
+  "magisk-xposed": [
+    "5ec1cff/TrickyStore",
+    "chiteroman/PlayIntegrityFix"
+  ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
     "talwat/lowfi"
