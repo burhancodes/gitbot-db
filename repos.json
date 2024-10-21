@@ -16,7 +16,9 @@
     "Goooler/LawnchairRelease",
     "mihonapp/mihon",
     "M66B/NetGuard",
-    "SaturnMusic/mobile"
+    "SaturnMusic/mobile",
+    "JunkFood02/Seal",
+    "deniscerri/ytdlnis"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
@@ -28,14 +30,20 @@
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
-    "talwat/lowfi"
+    "talwat/lowfi",
+    "PapirusDevelopmentTeam/papirus-icon-theme",
+    "vinceliuice/WhiteSur-gtk-theme",
+    "mjakeman/extension-manager",
+    "linuxmint/timeshift",
+    "vinceliuice/WhiteSur-icon-theme"
   ],
   "windows": [
     "Runixe786/MD3-Windows",
     "Axorax/winpower",
     "Axorax/nanabox",
     "CarrotRub/Fit-Launcher",
-    "eythaann/Seelen-UI"
+    "eythaann/Seelen-UI",
+    "ChrisTitusTech/winutil"
   ],
   "cross-platform": [
     "zen-browser/desktop",
@@ -43,7 +51,13 @@
     "kra-mo/sly",
     "HemantKArya/BloomeeTunes",
     "Uotan-Dev/UotanToolboxNT",
-    "Merrit/nyrna"
+    "Merrit/nyrna",
+    "kukuruzka165/materialgram",
+    "VSCodium/vscodium",
+    "localsend/localsend",
+    "fastfetch-cli/fastfetch",
+    "SpacingBat3/WebCord",
+    "brave/brave-browser"
   ],
   "misc": [
     "leminlimez/Nugget",
