@@ -20,7 +20,8 @@
     "JunkFood02/Seal",
     "deniscerri/ytdlnis",
     "namidaco/namida",
-    "termux/termux-app"
+    "termux/termux-app",
+    "komikku-app/komikku"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
