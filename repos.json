@@ -48,6 +48,8 @@
   "misc": [
     "leminlimez/Nugget",
     "straight-tamago/misakaX",
-    "mikf/gallery-dl"
+    "mikf/gallery-dl",
+    "yt-dlp/yt-dlp",
+    "htop-dev/htop"
   ]
 }
