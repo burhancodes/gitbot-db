@@ -35,13 +35,15 @@
     "Axorax/winpower",
     "Axorax/nanabox",
     "CarrotRub/Fit-Launcher",
-    "eythaann/Seelen-UI"
+    "eythaann/Seelen-UI",
   ],
   "cross-platform": [
     "zen-browser/desktop",
     "Steve-xmh/applemusic-like-lyrics",
     "kra-mo/sly",
-    "HemantKArya/BloomeeTunes"
+    "HemantKArya/BloomeeTunes",
+    "Uotan-Dev/UotanToolboxNT",
+    "Merrit/nyrna"
     
   ],
   "misc": [
