@@ -15,14 +15,16 @@
     "beemdevelopment/Aegis",
     "Goooler/LawnchairRelease",
     "mihonapp/mihon",
-    "M66B/NetGuard"
+    "M66B/NetGuard",
+    "SaturnMusic/mobile"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
     "chiteroman/PlayIntegrityFix",
     "LSPosed/LSPosed.github.io",
     "Magisk-Modules-Alt-Repo/StevenBlock",
-    "Magisk-Modules-Alt-Repo/enable-blurs"
+    "Magisk-Modules-Alt-Repo/enable-blurs",
+    "taamarin/cleaner"
   ],
   "linux": [
     "vinceliuice/Colloid-icon-theme",
@@ -31,6 +33,7 @@
   "windows": [
     "Runixe786/MD3-Windows",
     "Axorax/winpower",
+    "Axorax/nanabox",
     "CarrotRub/Fit-Launcher",
     "eythaann/Seelen-UI"
   ],
