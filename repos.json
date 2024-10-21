@@ -18,7 +18,8 @@
     "M66B/NetGuard",
     "SaturnMusic/mobile",
     "JunkFood02/Seal",
-    "deniscerri/ytdlnis"
+    "deniscerri/ytdlnis",
+    "namidaco/namida"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
