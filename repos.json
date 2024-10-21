@@ -21,7 +21,8 @@
     "deniscerri/ytdlnis",
     "namidaco/namida",
     "termux/termux-app",
-    "komikku-app/komikku"
+    "komikku-app/komikku",
+    "Droid-ify/client"
   ],
   "magisk-xposed": [
     "5ec1cff/TrickyStore",
